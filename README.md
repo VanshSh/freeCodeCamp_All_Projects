@@ -1,1 +1,1 @@
-# freeCodeCamp-Projects
+<h1 style="text-align:center">freeCodeCamp Projects</h1>
