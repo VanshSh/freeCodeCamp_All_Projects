@@ -1,6 +1,6 @@
 <h1 align="center">freeCodeCamp Projects</h1>
 
-<h2 align= "center">Responsive Web Design</h2>
+<h2 align= "center">:loudspeaker: Responsive Web Design :loudspeaker:</h2>
 
 1. ### Build a Tribute Page
      :link: Repository [Link](https://github.com/VanshSh/Tribute-Page-FreeCodeCamp)
