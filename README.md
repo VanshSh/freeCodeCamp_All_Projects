@@ -26,3 +26,9 @@
      :link: Repository [Link](https://github.com/VanshSh/Portfolio-FreeCodeCamp)
     
      :tv:   Soon 
+
+:mortar_board: <details>
+[Link](https://www.freecodecamp.org/certification/vanshsharma2701/responsive-web-design)
+<summary>Certificate</summary>
+<br>
+</details>
