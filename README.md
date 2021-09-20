@@ -57,8 +57,8 @@
 
 1. ## Cash Register
 
+:desktop_computer:
 <details>
-
 
     ```
 
